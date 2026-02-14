@@ -87,3 +87,26 @@ Integrated modules
 Refactored code structure
 
 Improved performance and UX
+
+
+Phase 5: Testing & Bug Fixes
+
+Objective: Ensure application stability and correctness.
+
+Key Tasks:
+
+Manual testing of features
+
+Bug identification and fixes
+
+Edge case handling
+
+Code cleanup
+
+Commit Examples:
+
+Fixed UI bugs
+
+Resolved feature edge cases
+
+Code cleanup and optimizations
