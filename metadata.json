@@ -1,0 +1,6 @@
+
+{
+  "name": "FlavorShift",
+  "description": "A molecular-level cuisine translation engine that preserves culinary structure using AI-driven ingredient substitution based on chemical similarity profiles.",
+  "requestFramePermissions": []
+}
