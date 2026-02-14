@@ -6,7 +6,7 @@ Your FlavorShift app now has **full integration** with RecipeDB & FlavourDB APIs
 
 ---
 
-## 📦 Files Created/Modified
+## 📦 Files Created
 
 ### **NEW FILES:**
 
