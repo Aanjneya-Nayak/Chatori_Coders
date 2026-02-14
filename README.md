@@ -43,3 +43,25 @@ Added homepage UI
 Implemented navbar and footer
 
 Improved responsive layout
+
+Phase 3: Feature Development
+
+Objective: Implement core features of the application.
+
+Key Tasks:
+
+Developed primary user features
+
+Connected UI components with logic
+
+Added form handling and validations
+
+Improved user interaction flow
+
+Commit Examples:
+
+Implemented main feature logic
+
+Added form validation
+
+Connected frontend components
