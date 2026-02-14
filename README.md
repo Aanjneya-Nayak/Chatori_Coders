@@ -1,4 +1,4 @@
-FlavorShift
+FlavorShift: Cuisine Fusion
 🔹 Phase 1: Project Initialization & Setup
 
 Objective: Set up the project structure and development environment.
