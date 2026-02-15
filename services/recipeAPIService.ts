@@ -47,7 +47,7 @@ export async function getRecipeOfDay(): Promise<any> {
     return data?.payload?.data || null;
   } catch (error) {
     console.log('RecipeDB recipe-of-day call attempted');
-    return null;
+    return nulL;
   }
 }
 
